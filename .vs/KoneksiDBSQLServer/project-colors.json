@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b7cecef5-2983-4e9c-9796-33a15fd19e1c": {
+      "ProjectGuid": "b7cecef5-2983-4e9c-9796-33a15fd19e1c",
+      "DisplayName": "KoneksiDBSQLServer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
